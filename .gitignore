@@ -97,6 +97,7 @@ typings/
 *.xml.meta
 *.wav.meta
 *.meta
+*.json
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
